@@ -1,6 +1,6 @@
-# Bug Tracker
+# Project Tracking System
 
-Bug tracking
+Project Tracking System
 
 ## Built using
 
