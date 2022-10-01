@@ -75,7 +75,8 @@ const BugsDetailsPage = () => {
     dispatch(deleteBug(projectId, bugId, history));
   };
 
-  const handleCloseBug = () => {
+  const handleCloseBug = () => 
+  {
     dispatch(closeReopenBug(projectId, bugId, 'close'));
   };
 
